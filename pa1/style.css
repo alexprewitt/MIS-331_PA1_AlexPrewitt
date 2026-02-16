@@ -1,0 +1,30 @@
+.jumbotron{
+    background-color: crimson;
+    color: white;
+    padding: 2rem 1rem;
+    border-radius: 0.3rem;
+    text-align: center;
+}
+
+.center-container-horizontal {
+  text-align: center; 
+  height: 100px; 
+  border: 1px solid white;
+}
+
+.left-container-horizontal {
+  text-align: left; 
+  height: 100px;
+}
+
+.right-container-horizontal {
+  text-align: right; 
+  height: 100px;
+}
+
+.table-bordered {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
